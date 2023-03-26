@@ -14,8 +14,8 @@ const WorkCard = () => {
                 <div className="pro-details">
                     <p>This is text</p>
                     <div className="pro-btns">
-                        <NavLink to="url.com" classname="btn">View</NavLink>
-                        <NavLink to="url.com" classname="btn">Source</NavLink>
+                        <NavLink to="url.com" className="btn">View</NavLink>
+                        <NavLink to="url.com" className="btn">Source</NavLink>
                     </div>
                 </div>
             </div>
