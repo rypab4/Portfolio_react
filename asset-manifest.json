@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.fa778644.css",
+    "main.js": "/my-app/static/js/main.22a44909.js",
+    "static/media/react2.png": "/my-app/static/media/react2.5a9dd0cb88cc06017caa.png",
+    "static/media/intro.jpg": "/my-app/static/media/intro.9cf1a97bda0feb3c4523.jpg",
+    "static/media/react1.png": "/my-app/static/media/react1.df7fe87f60825949370d.png",
+    "static/media/progrest.png": "/my-app/static/media/progrest.a232d4b8a9c111d179da.png",
+    "static/media/social_media_api.png": "/my-app/static/media/social_media_api.819f4e8aa83a38c5c558.png",
+    "static/media/Tech_Blog.png": "/my-app/static/media/Tech_Blog.83c429c21525bf8d19da.png",
+    "index.html": "/my-app/index.html",
+    "main.fa778644.css.map": "/my-app/static/css/main.fa778644.css.map",
+    "main.22a44909.js.map": "/my-app/static/js/main.22a44909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa778644.css",
+    "static/js/main.22a44909.js"
+  ]
+}
